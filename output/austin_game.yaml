@@ -1,0 +1,19 @@
+---
+word: recommend
+guesses_remaining: 7
+answer:
+- _
+- e
+- _
+- _
+- _
+- _
+- e
+- _
+- _
+correct:
+- e
+incorrect:
+- a
+- i
+game_over: false

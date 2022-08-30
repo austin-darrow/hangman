@@ -1,0 +1,19 @@
+---
+word: debate
+guesses_remaining: 4
+answer:
+- d
+- e
+- b
+- a
+- _
+- e
+correct:
+- a
+- b
+- d
+- e
+incorrect:
+- q
+- z
+game_over: false
